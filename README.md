@@ -42,13 +42,14 @@ Welcome to my GitHub profile! I'm a passionate web developer specializing in the
 ### Project 1: Wiki-Clone[(https://github.com/yourusername/project1)](https://github.com/SAICSP/Wiki-Project)
 Project Link :https://wikieditedbysai.netlify.app/
 ![Project Name](https://img.shields.io/github/stars/yourusername/project1?style=social)
-- **Description**:This webpage is a professionally crafted interface, meticulously developed using HTML, CSS, Bootstrap, and JavaScript. Leveraging Bootstrap's grid system, it ensures seamless responsiveness across devices, including mobile devices, providing optimal viewing and interaction. Users can effortlessly customize their reading experience by adjusting text size and color theme, enhancing readability and personalization.
+This webpage is a professionally crafted interface, meticulously developed using HTML, CSS, Bootstrap, and JavaScript. Leveraging Bootstrap's grid system, it ensures seamless responsiveness across devices, including mobile devices, providing optimal viewing and interaction. Users can effortlessly customize their reading experience by adjusting text size and color theme, enhancing readability and personalization.
 
 Moreover, the integration of the Google Translate API facilitates language flexibility, enabling users to explore Wikipedia content in their preferred language. This enhances accessibility and inclusivity, catering to a diverse global audience.
 
 Additionally, the real-time search functionality powered by API empowers users to swiftly access relevant information directly from the main page. The intuitive design, combined with efficient search capabilities, ensures a seamless user experience, fostering engagement and satisfaction.
 
 Overall, this webpage epitomizes professional web development practices, seamlessly blending aesthetics, functionality, and accessibility to deliver an enriching browsing experience for users seeking knowledge and information on Wikipedia.
+
 - **Technologies Used**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 
