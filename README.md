@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a passionate web developer specializing in the
 ## 🌟 Featured Projects
 
 ### Project 1: Wiki-Clone[(https://github.com/yourusername/project1)](https://github.com/SAICSP/Wiki-Project)
-# Project Link :https://wikieditedbysai.netlify.app/
+Project Link :https://wikieditedbysai.netlify.app/
 ![Project Name](https://img.shields.io/github/stars/yourusername/project1?style=social)
 - **Description**:This webpage is a professionally crafted interface, meticulously developed using HTML, CSS, Bootstrap, and JavaScript. Leveraging Bootstrap's grid system, it ensures seamless responsiveness across devices, including mobile devices, providing optimal viewing and interaction. Users can effortlessly customize their reading experience by adjusting text size and color theme, enhancing readability and personalization.
 
