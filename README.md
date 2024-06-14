@@ -31,11 +31,7 @@ Welcome to my GitHub profile! I'm a passionate web developer specializing in the
 - **Jenkins** ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 - **AWS** ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=radical)
 
 ## 🌟 Featured Projects
 
