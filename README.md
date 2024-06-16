@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate web developer specializing in the MERN stack. I love building dynamic and responsive web applications that provide great user experiences. Check out my skills and projects below!
 
-## 🚀 Skills
+## 🚀 Key Skills
 
 ### Frontend Development
 - **HTML5** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
