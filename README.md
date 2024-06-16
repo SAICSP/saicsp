@@ -45,6 +45,9 @@ Additionally, the real-time search functionality powered by API empowers users t
 
 Overall, this webpage epitomizes professional web development practices, seamlessly blending aesthetics, functionality, and accessibility to deliver an enriching browsing experience for users seeking knowledge and information on Wikipedia.
 
+## 📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAICSP&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAICSP&layout=compact&theme=radical)
 
 
 
