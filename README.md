@@ -53,7 +53,7 @@ Overall, this webpage epitomizes professional web development practices, seamles
 ## 📫 Get in Touch
 
 - **LinkedIn**   :www.linkedin.com/in/chenna-sai-prakash-b930a0256
-- **Twitter**    : (https://twitter.com/yourprofile/)](https://x.com/Sa1Prakash444)
+- **Twitter**    : https://twitter.com/yourprofile/)](https://x.com/Sa1Prakash444
 - **Instagram**  :https://www.instagram.com/__the.2003__/
 - **Email**      : the2003csp@gmail.com
 
