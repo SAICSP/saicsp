@@ -5,7 +5,7 @@ I love building dynamic and responsive web applications that provide great user 
 Check out my skills and projects below!
 
 
-## 📫 Get in Touch
+## 📫 Socials
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sa1Prakash444)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__the.2003__/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/chenna-sai-prakash-b930a0256)
