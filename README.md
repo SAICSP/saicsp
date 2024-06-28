@@ -8,7 +8,7 @@ Check out my skills and projects below!
 ## 📫 Socials
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sa1Prakash444)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__the.2003__/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/chenna-sai-prakash-b930a0256)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%CA%9C%E1%B4%87%C9%B4%C9%B4%E1%B4%80-s%E1%B4%80%C9%AA-p%CA%80%E1%B4%80%E1%B4%8B%E1%B4%80s%CA%9C-b930a0256/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:the2003csp.com)
 
 
