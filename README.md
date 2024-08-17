@@ -45,7 +45,7 @@ Check out my skills and projects below!
 
 ## 🌟 Featured Projects
 
-### Project 1: Wiki-Project[https://github.com/SAICSP/Wiki-Project
+### Project 1: Wiki-Project - https://github.com/SAICSP/Wiki-Project
 Project Link :https://wikieditedbysai.netlify.app/ 
 <br>
 
