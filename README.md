@@ -26,7 +26,6 @@ Check out my skills and projects below!
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
