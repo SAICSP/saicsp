@@ -1,5 +1,5 @@
 # Hi, I'm Sai
-(https://made-byshape.files.svdcdn.com/production/uploads/images-archive/Blog/Gifs/coding.gif?dm=1600090887)
+https://made-byshape.files.svdcdn.com/production/uploads/images-archive/Blog/Gifs/coding.gif?dm=1600090887
 
 
 
