@@ -2,7 +2,7 @@
 <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" height="600px" width="900px">
 
 
-z
+
 Welcome to my GitHub! I'm a passionate web developer specializing in the MERN stack.
 I love building dynamic and responsive web applications that provide great user experiences.
 Check out my skills and projects below!
