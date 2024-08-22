@@ -1,8 +1,8 @@
-# Hi,<img src="https://media.tenor.com/2CC_MxnlCwEAAAAC/shake-hand.gif" height="75px" width="75px" > I'm Sai
+# Hi, I'm Sai
 <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" height="600px" width="900px">
 
 
-
+z
 Welcome to my GitHub! I'm a passionate web developer specializing in the MERN stack.
 I love building dynamic and responsive web applications that provide great user experiences.
 Check out my skills and projects below!
