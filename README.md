@@ -1,7 +1,6 @@
 # Hi, I'm Sai
 <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif
- "
- height="300px" width="900px">
+ " height="300px" width="900px">
 
 
 
