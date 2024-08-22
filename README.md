@@ -1,6 +1,6 @@
 # Hi, I'm Sai
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
- height="300px" width="300px">
+ height="300px" width="900px">
 
 
 
