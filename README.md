@@ -1,5 +1,7 @@
 # Hi, I'm Sai
 
+<img src="D:\LINKEDIN\coding.gif">
+
 Welcome to my GitHub! I'm a passionate web developer specializing in the MERN stack.
 I love building dynamic and responsive web applications that provide great user experiences.
 Check out my skills and projects below!
