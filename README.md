@@ -61,8 +61,7 @@ Additionally, the real-time search functionality powered by API empowers users t
 Overall, this webpage epitomizes professional web development practices, seamlessly blending aesthetics, functionality, and accessibility to deliver an enriching browsing experience for users seeking knowledge and information on Wikipedia.
 
 
- ### Project 2: Simon-Project- https://simongamebysai.netlify.app/  -  
- Dive into the mesmerizing world of Simon, a JavaScript-powered memory game that challenges players to recall colors from start to finish. With a sleek interface and dynamic gameplay, each level presents a new twist to keep you on your toes. Compete for high scores and immerse yourself in a symphony of sound as you strive for victory.
+ 
 
 ## 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAICSP&show_icons=true&theme=radical)
