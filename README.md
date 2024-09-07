@@ -67,6 +67,17 @@ The design emphasizes accessibility and ease of use, providing a seamless experi
 
 ---
 
+## ⚡ Interests:
+<p align="center">
+  <img src="https://img.shields.io/badge/-Exercise-F4A261?style=for-the-badge&logo=fitness&logoColor=white" alt="Exercise">
+  <img src="https://img.shields.io/badge/-Reading%20Books-264653?style=for-the-badge&logo=read&logoColor=white" alt="Reading Books">
+  <img src="https://img.shields.io/badge/-Cooking-E76F51?style=for-the-badge&logo=cooking&logoColor=white" alt="Cooking">
+</p>
+
+### 🔥 I enjoy staying active, keeping up with fitness, and reading books. I also love experimenting with new recipes in the kitchen!
+
+---
+
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SAICSP" alt="Visitor Count">
 </p>
