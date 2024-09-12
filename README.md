@@ -1,7 +1,7 @@
 <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" height="600px" width="900px" alt="Coding GIF" style="border-radius: 15px; margin-bottom: 20px;">
 
 # 👋 Hi, I'm **Sai**  
-Welcome to my GitHub!  
+
 I'm a passionate **Web Developer** specializing in the **MERN Stack**. I thrive on building **dynamic** and **responsive** web applications that offer seamless user experiences.
 
 Check out my **skills** and **projects** below! 🚀
