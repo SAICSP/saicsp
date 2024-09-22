@@ -12,7 +12,7 @@ I'm a passionate **Web Developer** specializing in the **MERN Stack**. I thrive 
 <p align="center">
   <a href="https://www.linkedin.com/in/c%CA%9C%E1%B4%87%C9%B4%C9%B4%E1%B4%80-s%E1%B4%80%C9%AA-p%CA%80%E1%B4%80%E1%B4%8B%E1%B4%80s%CA%9C-b930a0256/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/__the.2003__/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:the2003csp.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:chennasaicsp@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://twitter.com/Sa1Prakash444"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
