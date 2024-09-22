@@ -47,16 +47,25 @@ Check out my **skills** and **projects** below! 🚀
 ---
 
 ## 🌟 Featured Projects
-### Project 1: [Wiki-Project](https://github.com/SAICSP/Wiki-Project)
-**[Live Demo](https://wikieditedbysai.netlify.app/)**
+### Project 1: [Wiki-Project](https://github.com/SAICSP/Reactwiki)
+**[Live Demo](https://wikiuibysai.netlify.app/)**
 
-This webpage offers a modern and user-friendly interface, built with **HTML**, **CSS**, **Bootstrap**, and **JavaScript**. Key features include:
+This webpage offers a modern and user-friendly interface, built with **REACT.JS**,**HTML**, **CSS**, **Bootstrap**, and **JavaScript**. Key features include:
 - **Responsive Design** with Bootstrap’s grid system.
 - **Google Translate API** integration for language support.
 - **Real-time search functionality** for faster access to relevant Wikipedia content.
-  
-The design emphasizes accessibility and ease of use, providing a seamless experience for users across various devices.
+ The design emphasizes accessibility and ease of use, providing a seamless experience for users across various devices.
 
+### Project 2: [Shubh-Yatra](https://github.com/SAICSP/Shubh-Yatra)
+**[Live Demo](https://shubh-yatra-oown.onrender.com/)**
+
+Developed a full-stack Airbnb-like platform using MongoDB, Express, Node.js, JavaScript, and frontend technologies. The platform supports user authentication, allowing users to sign up, sign in, and manage their accounts easily. users can explore these listings. Additionally, the platform features a review system where users can leave feedback on properties. The entire project provides a seamless, user-friendly experience with secure data handling and smooth navigation.
+
+
+### Project 3: [Weather-App](https://github.com/SAICSP/WeatherApp)
+**[Live Demo](https://weatherappbysai.netlify.app/)**
+
+Weather App providing real-time weather details such as temperature, humidity, and more. Built with Material UI, the app allows users to search for any city and receive up-to-date weather information. Technologies include React, JavaScript, HTML, CSS, and Node.js.
 ---
 
 ## 📊 GitHub Stats:
