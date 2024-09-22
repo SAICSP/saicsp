@@ -65,7 +65,10 @@ Developed a full-stack Airbnb-like platform using MongoDB, Express, Node.js, Jav
 ### Project 3: [Weather-App](https://github.com/SAICSP/WeatherApp)
 **[Live Demo](https://weatherappbysai.netlify.app/)**
 
-Weather App providing real-time weather details such as temperature, humidity, and more. Built with Material UI, the app allows users to search for any city and receive up-to-date weather information. Technologies include React, JavaScript, HTML, CSS, and Node.js.
+
+Weather App providing real-time weather details such as temperature,humidity and more. Built with Material UI, the app allows users to search any city and receive up-to-data as weather information.Technologies include React,JavaScript,HTML,CSS and Node.js.
+
+
 ---
 
 ## 📊 GitHub Stats:
