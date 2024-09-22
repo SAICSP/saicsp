@@ -4,7 +4,7 @@
 
 I'm a passionate **Web Developer** specializing in the **MERN Stack**. I thrive on building **dynamic** and **responsive** web applications that offer seamless user experiences.
 
-Check out my **skills** and **projects** below! 🚀
+
 
 ---
 
