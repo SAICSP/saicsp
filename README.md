@@ -50,10 +50,10 @@ Check out my **skills** and **projects** below! 🚀
 ### Project 1: [Wiki-Project](https://github.com/SAICSP/Reactwiki)
 **[Live Demo](https://wikiuibysai.netlify.app/)**
 
-This webpage offers a modern and user-friendly interface, built with **REACT.JS**,**HTML**, **CSS**, **Bootstrap**, and **JavaScript**. Key features include:
-- **Responsive Design** with Bootstrap’s grid system.
-- **Google Translate API** integration for language support.
-- **Real-time search functionality** for faster access to relevant Wikipedia content.
+This webpage offers a modern and user-friendly interface, built with **REACT.JS**,**HTML**, **CSS**, **Bootstrap**, and JavaScript. Key features include:
+- Responsive Design with Bootstrap’s grid system.
+- Google Translate API integration for language support.
+- Real-time search functionality for faster access to relevant Wikipedia content.
  The design emphasizes accessibility and ease of use, providing a seamless experience for users across various devices.
 
 ### Project 2: [Shubh-Yatra](https://github.com/SAICSP/Shubh-Yatra)
