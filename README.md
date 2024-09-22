@@ -1,4 +1,4 @@
-<img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" height="600px" width="900px" alt="Coding GIF" style="border-radius: 15px; margin-bottom: 20px;">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="600px" width="900px" alt="Coding GIF" style="border-radius: 15px; margin-bottom: 20px;">
 
 # 👋 Hi, I'm **Sai**  
 
