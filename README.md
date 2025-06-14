@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Sai**  
 
-I'm a passionate **Web Developer** specializing in the **MERN Stack**. I thrive on building **dynamic** and **responsive** web applications that offer seamless user experiences.
+I'm a  ** Developer** specializing in the **MERN Stack**. I thrive on building **dynamic** and **responsive** web applications that offer seamless user experiences.
 
 
 
@@ -48,26 +48,39 @@ I'm a passionate **Web Developer** specializing in the **MERN Stack**. I thrive 
 
 ## 🌟 Featured Projects
 ### Project 1: [Wiki-Project](https://github.com/SAICSP/Reactwiki)
-**[Live Demo](https://wikiuibysai.netlify.app/)**
+**[Live Demo](https://trackeasy500075.onrender.com/)**
 
-This webpage offers a modern and user-friendly interface, built with **REACT.JS**,**HTML**, **CSS**, **Bootstrap**, and JavaScript. Key features include:
-- Responsive Design with Bootstrap’s grid system.
-- Google Translate API integration for language support.
-- Real-time search functionality for faster access to relevant Wikipedia content.
- The design emphasizes accessibility and ease of use, providing a seamless experience for users across various devices.
+Trackeasyis a web-based attendance management system built using the MERN 
+stack. It significantly reduces attendance marking time for teachers from 15 
+minutes to less than 2 minutes per session. The platform allows teachers to easily 
+mark, update, and view attendance records in real-time. Integrated Nodemailer to 
+automate attendance report sharing directly to teachers' emails. Delivered a fast, 
+efficient, and user-friendly solution improving the overall attendance process. 
 
 ### Project 2: [Shubh-Yatra](https://github.com/SAICSP/Shubh-Yatra)
-**[Live Demo](https://shubh-yatra-oown.onrender.com/)**
+**[Link](https://github.com/SAICSP/Shubh-Yatra)**
 
-Developed a full-stack Airbnb-like platform using MongoDB, Express, Node.js, JavaScript, and frontend technologies. The platform supports user authentication, allowing users to sign up, sign in, and manage their accounts easily. users can explore these listings. Additionally, the platform features a review system where users can leave feedback on properties. The entire project provides a seamless, user-friendly experience with secure data handling and smooth navigation.
+Shubhyatra is a travel-based web application developed using the MERN stack, 
+enabling users to explore and review travel destinations. Implemented secure user 
+authentication and authorization using Passport.js to protect user data and restrict 
+access to specific routes. Designed and integrated full CRUD operations for managing 
+user-generated reviews. Ensured seamless user experiences with protected routes and 
+session-based authentication. Delivered a responsive and interactive platform for 
+personalized travel planning and feedback sharing
 
 
-### Project 3: [Weather-App](https://github.com/SAICSP/WeatherApp)
-**[Live Demo](https://weatherappbysai.netlify.app/)**
+### Project 3: [WikiPedia-App](https://github.com/SAICSP/Reactwiki)
+**[Live Demo](https://wikiuibysai.netlify.app/)**
 
 
-Weather App providing real-time weather details such as temperature,humidity and more. Built with Material UI, the app allows users to search any city and receive up-to-data as weather information.Technologies include React,JavaScript,HTML,CSS and Node.js.
-
+Developed web application that allows users to search and explore Wikipedia 
+content seamlessly. Integrated Google Language Translator to enable real-time 
+multi-language support for global accessibility. Implemented Framer Motion 
+animations, including a dynamic red scroll indicator to visually track page scroll 
+progress. Developed a customizable user interface where users can easily adjust 
+font color, size, and style for a personalized reading experience. Delivered a 
+responsive, user-friendly platform with smooth animations and enhanced content 
+accessibility.
 
 ---
 
