@@ -47,7 +47,7 @@ I'm a  ** Developer** specializing in the **MERN Stack**. I thrive on building *
 ---
 
 ## 🌟 Featured Projects
-### Project 1: [Wiki-Project](https://github.com/SAICSP/Reactwiki)
+### Project 1: [TrackEasy](https://github.com/SAICSP/Reactwiki)
 **[Live Demo](https://trackeasy500075.onrender.com/)**
 
 Trackeasyis a web-based attendance management system built using the MERN 
