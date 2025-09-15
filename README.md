@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Sai**  
 
-I'm a  ** Developer** specializing in the **MERN Stack**. I thrive on building **dynamic** and **responsive** web applications that offer seamless user experiences.
+I'm a  CS Graduate specializing in the **MERN Stack**. I thrive on building **dynamic** and **responsive** web applications that offer seamless user experiences.
 
 
 
