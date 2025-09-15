@@ -47,8 +47,18 @@ I'm a  CS Graduate specializing in the **MERN Stack**. I thrive on building **dy
 ---
 
 ## 🌟 Featured Projects
-### Project 1: [TrackEasy](https://github.com/SAICSP/Reactwiki)
-**[Live Demo](https://trackeasy500075.onrender.com/)**
+### Project 1: [PratiLipi](https://github.com/SAICSP/PratiLipi)
+**[Live Demo](https://pratilipithechat.onrender.com/)**
+
+ Developed Pratilipi, a responsive ChatGPT-like application powered by the GPT-4o
+mini model, enabling real-time conversational AI. Implemented thread
+ management with features to create and delete conversations. Utilized the React
+ Context API for efficient state management across components and integrated
+ React Spinners to enhance UI responsiveness. Designed the application with a
+ scalable and user-friendly frontend architecture for seamless performance across
+ devices.
+
+### Project 2: [TrackEasy](https://github.com/SAICSP/Reactwiki)
 
 Trackeasyis a web-based attendance management system built using the MERN 
 stack. It significantly reduces attendance marking time for teachers from 15 
@@ -57,8 +67,7 @@ mark, update, and view attendance records in real-time. Integrated Nodemailer to
 automate attendance report sharing directly to teachers' emails. Delivered a fast, 
 efficient, and user-friendly solution improving the overall attendance process. 
 
-### Project 2: [Shubh-Yatra](https://github.com/SAICSP/Shubh-Yatra)
-**[Link](https://github.com/SAICSP/Shubh-Yatra)**
+### Project 3: [Shubh-Yatra](https://github.com/SAICSP/Shubh-Yatra)
 
 Shubhyatra is a travel-based web application developed using the MERN stack, 
 enabling users to explore and review travel destinations. Implemented secure user 
@@ -69,18 +78,6 @@ session-based authentication. Delivered a responsive and interactive platform fo
 personalized travel planning and feedback sharing
 
 
-### Project 3: [WikiPedia-App](https://github.com/SAICSP/Reactwiki)
-**[Live Demo](https://wikiuibysai.netlify.app/)**
-
-
-Developed web application that allows users to search and explore Wikipedia 
-content seamlessly. Integrated Google Language Translator to enable real-time 
-multi-language support for global accessibility. Implemented Framer Motion 
-animations, including a dynamic red scroll indicator to visually track page scroll 
-progress. Developed a customizable user interface where users can easily adjust 
-font color, size, and style for a personalized reading experience. Delivered a 
-responsive, user-friendly platform with smooth animations and enhanced content 
-accessibility.
 
 ---
 
