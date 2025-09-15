@@ -83,7 +83,7 @@ accessibility.
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAICSP&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" width="48%">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAICSP&layout=compact&theme=radical" alt="Top Languages" height="180px" width="48%">
 </p>
 
@@ -96,10 +96,7 @@ accessibility.
   <img src="https://img.shields.io/badge/-Cooking-E76F51?style=for-the-badge&logo=cooking&logoColor=white" alt="Cooking">
 </p>
 
-### 🔥 I enjoy staying active, keeping up with fitness, and reading books. I also love experimenting with new recipes in the kitchen!
+
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SAICSP" alt="Visitor Count">
-</p>
