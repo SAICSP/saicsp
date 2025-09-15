@@ -1,10 +1,13 @@
-https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif  
+
 
 # 👋 Hi, I'm **Sai**  
 
 I'm a  CS Graduate specializing in the **MERN Stack**. I thrive on building **dynamic** and **responsive** web applications that offer seamless user experiences.
 
 
+<div align="center">
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding gif" width="600"/>
+</div>
 
 ---
 
